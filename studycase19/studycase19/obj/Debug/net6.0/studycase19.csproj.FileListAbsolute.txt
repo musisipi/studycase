@@ -1,0 +1,14 @@
+C:\Users\dimas\source\repos\studycase19\studycase19\obj\Debug\net6.0\studycase19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimas\source\repos\studycase19\studycase19\obj\Debug\net6.0\studycase19.AssemblyInfoInputs.cache
+C:\Users\dimas\source\repos\studycase19\studycase19\obj\Debug\net6.0\studycase19.AssemblyInfo.cs
+C:\Users\dimas\source\repos\studycase19\studycase19\obj\Debug\net6.0\studycase19.csproj.CoreCompileInputs.cache
+C:\Users\dimas\source\repos\studycase19\studycase19\bin\Debug\net6.0\studycase19.exe
+C:\Users\dimas\source\repos\studycase19\studycase19\bin\Debug\net6.0\studycase19.deps.json
+C:\Users\dimas\source\repos\studycase19\studycase19\bin\Debug\net6.0\studycase19.runtimeconfig.json
+C:\Users\dimas\source\repos\studycase19\studycase19\bin\Debug\net6.0\studycase19.dll
+C:\Users\dimas\source\repos\studycase19\studycase19\bin\Debug\net6.0\studycase19.pdb
+C:\Users\dimas\source\repos\studycase19\studycase19\obj\Debug\net6.0\studycase19.dll
+C:\Users\dimas\source\repos\studycase19\studycase19\obj\Debug\net6.0\refint\studycase19.dll
+C:\Users\dimas\source\repos\studycase19\studycase19\obj\Debug\net6.0\studycase19.pdb
+C:\Users\dimas\source\repos\studycase19\studycase19\obj\Debug\net6.0\studycase19.genruntimeconfig.cache
+C:\Users\dimas\source\repos\studycase19\studycase19\obj\Debug\net6.0\ref\studycase19.dll
