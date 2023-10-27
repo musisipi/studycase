@@ -1,0 +1,14 @@
+C:\Users\dimas\source\repos\studycase21\studycase21\bin\Debug\net6.0\studycase21.exe
+C:\Users\dimas\source\repos\studycase21\studycase21\bin\Debug\net6.0\studycase21.deps.json
+C:\Users\dimas\source\repos\studycase21\studycase21\bin\Debug\net6.0\studycase21.runtimeconfig.json
+C:\Users\dimas\source\repos\studycase21\studycase21\bin\Debug\net6.0\studycase21.dll
+C:\Users\dimas\source\repos\studycase21\studycase21\bin\Debug\net6.0\studycase21.pdb
+C:\Users\dimas\source\repos\studycase21\studycase21\obj\Debug\net6.0\studycase21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimas\source\repos\studycase21\studycase21\obj\Debug\net6.0\studycase21.AssemblyInfoInputs.cache
+C:\Users\dimas\source\repos\studycase21\studycase21\obj\Debug\net6.0\studycase21.AssemblyInfo.cs
+C:\Users\dimas\source\repos\studycase21\studycase21\obj\Debug\net6.0\studycase21.csproj.CoreCompileInputs.cache
+C:\Users\dimas\source\repos\studycase21\studycase21\obj\Debug\net6.0\studycase21.dll
+C:\Users\dimas\source\repos\studycase21\studycase21\obj\Debug\net6.0\refint\studycase21.dll
+C:\Users\dimas\source\repos\studycase21\studycase21\obj\Debug\net6.0\studycase21.pdb
+C:\Users\dimas\source\repos\studycase21\studycase21\obj\Debug\net6.0\studycase21.genruntimeconfig.cache
+C:\Users\dimas\source\repos\studycase21\studycase21\obj\Debug\net6.0\ref\studycase21.dll
