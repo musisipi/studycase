@@ -1,0 +1,14 @@
+C:\Users\dimas\source\repos\studycase15\studycase15\obj\Debug\net6.0\studycase15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimas\source\repos\studycase15\studycase15\obj\Debug\net6.0\studycase15.AssemblyInfoInputs.cache
+C:\Users\dimas\source\repos\studycase15\studycase15\obj\Debug\net6.0\studycase15.AssemblyInfo.cs
+C:\Users\dimas\source\repos\studycase15\studycase15\obj\Debug\net6.0\studycase15.csproj.CoreCompileInputs.cache
+C:\Users\dimas\source\repos\studycase15\studycase15\bin\Debug\net6.0\studycase15.exe
+C:\Users\dimas\source\repos\studycase15\studycase15\bin\Debug\net6.0\studycase15.deps.json
+C:\Users\dimas\source\repos\studycase15\studycase15\bin\Debug\net6.0\studycase15.runtimeconfig.json
+C:\Users\dimas\source\repos\studycase15\studycase15\bin\Debug\net6.0\studycase15.dll
+C:\Users\dimas\source\repos\studycase15\studycase15\bin\Debug\net6.0\studycase15.pdb
+C:\Users\dimas\source\repos\studycase15\studycase15\obj\Debug\net6.0\studycase15.dll
+C:\Users\dimas\source\repos\studycase15\studycase15\obj\Debug\net6.0\refint\studycase15.dll
+C:\Users\dimas\source\repos\studycase15\studycase15\obj\Debug\net6.0\studycase15.pdb
+C:\Users\dimas\source\repos\studycase15\studycase15\obj\Debug\net6.0\studycase15.genruntimeconfig.cache
+C:\Users\dimas\source\repos\studycase15\studycase15\obj\Debug\net6.0\ref\studycase15.dll
